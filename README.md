@@ -11,7 +11,8 @@ An AI-powered chatbot designed to enhance customer interactions at a coffee shop
 
 
 ## 🎥 Demo Video
-[![Demo Video](//drive.google.com/file/d/1KrQ4MZ9tkmHyQ1ORdkt7aliDcdvjFUwe/view?usp=drive_link)](https://github.com/ashentharushikez/AI-Chatbot-Deployment/raw/main/demo/project5.mp4)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue)](https://drive.google.com/file/d/1KrQ4MZ9tkmHyQ1ORdkt7aliDcdvjFUwe/view?usp=drive_link)
+
 
 ## 🚀 Technologies Usedhttps:
 - **Python** - Core programming language.
