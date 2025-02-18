@@ -10,8 +10,7 @@ An AI-powered chatbot designed to enhance customer interactions at a coffee shop
 - Interactive and user-friendly chatbot experience.
 
 
-## 🎥 Demo Video
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue)](https://drive.google.com/file/d/1KrQ4MZ9tkmHyQ1ORdkt7aliDcdvjFUwe/view?usp=drive_link)
+
 
 
 ## 🚀 Technologies Usedhttps:
