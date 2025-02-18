@@ -11,9 +11,9 @@ An AI-powered chatbot designed to enhance customer interactions at a coffee shop
 
 
 ## 🎥 Demo Video
-[![Demo Video](https://img.shields.io/badge/Watch-Demo-blue)](https://github.com/ashentharushikez/AI-Chatbot-Deployment/raw/main/demo/project5.mp4).
+[![Demo Video](//drive.google.com/file/d/1KrQ4MZ9tkmHyQ1ORdkt7aliDcdvjFUwe/view?usp=drive_link)](https://github.com/ashentharushikez/AI-Chatbot-Deployment/raw/main/demo/project5.mp4)
 
-## 🚀 Technologies Used
+## 🚀 Technologies Usedhttps:
 - **Python** - Core programming language.
 - **PyTorch** - Machine learning framework for training the model.
 - **NLTK** - Natural language processing toolkit.
